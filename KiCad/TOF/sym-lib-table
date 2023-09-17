@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "B2B-PH-K-S_LF_SN")(type "KiCad")(uri "${KIPRJMOD}/components/part_symbols/B2B-PH-K-S_LF_SN.kicad_sym")(options "")(descr ""))
+  (lib (name "Capacitor_Taiyo_Yuden_0402")(type "KiCad")(uri "${KIPRJMOD}/components/part_symbols/Capacitor_Taiyo_Yuden_0402.kicad_sym")(options "")(descr ""))
+  (lib (name "Stackpole_Res_0402")(type "KiCad")(uri "${KIPRJMOD}/components/part_symbols/Stackpole_Res_0402.kicad_sym")(options "")(descr ""))
+  (lib (name "TE_1734742-8")(type "KiCad")(uri "${KIPRJMOD}/components/part_symbols/TE_1734742-8.kicad_sym")(options "")(descr ""))
+  (lib (name "VL53L4CDV0DH1")(type "KiCad")(uri "${KIPRJMOD}/components/part_symbols/VL53L4CDV0DH1.kicad_sym")(options "")(descr ""))
+  (lib (name "VL53L4CXV0DH1")(type "KiCad")(uri "${KIPRJMOD}/components/part_symbols/VL53L4CXV0DH1.kicad_sym")(options "")(descr ""))
+)
